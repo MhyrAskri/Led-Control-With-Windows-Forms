@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db7b2a9c-1ded-41c2-a9a2-a1f9c664c69d": {
+      "ProjectGuid": "db7b2a9c-1ded-41c2-a9a2-a1f9c664c69d",
+      "DisplayName": "led_control",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

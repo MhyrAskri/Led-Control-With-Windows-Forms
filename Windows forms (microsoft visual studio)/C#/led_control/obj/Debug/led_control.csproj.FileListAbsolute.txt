@@ -1,0 +1,11 @@
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\bin\Debug\led_control.exe.config
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\bin\Debug\led_control.exe
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\bin\Debug\led_control.pdb
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\obj\Debug\led_control.csproj.AssemblyReference.cache
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\obj\Debug\led_control.csproj.SuggestedBindingRedirects.cache
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\obj\Debug\led_control.Form1.resources
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\obj\Debug\led_control.Properties.Resources.resources
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\obj\Debug\led_control.csproj.GenerateResource.cache
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\obj\Debug\led_control.csproj.CoreCompileInputs.cache
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\obj\Debug\led_control.exe
+F:\Arduino\Led control with windows forms\Windows forms (microsoft visual studio)\C#\led_control\led_control\obj\Debug\led_control.pdb
